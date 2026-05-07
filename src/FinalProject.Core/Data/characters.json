@@ -1,0 +1,110 @@
+[
+  {
+    "id": "himeko",
+    "name": "Himeko",
+    "element": "Fire",
+    "path": "Erudition",
+    "rarity": 5,
+    "description": "A fiery erudition character who deals AoE Fire damage.",
+    "imageUrl": "https://www.prydwen.gg/static/e9dc13fc2a45a88e00e4eb6a0c5de761/a5b19/himeko_full.webp"
+  },
+  {
+    "id": "bronya",
+    "name": "Bronya",
+    "element": "Wind",
+    "path": "Harmony",
+    "rarity": 5,
+    "description": "A powerful support who advances allies and buffs ATK.",
+    "imageUrl": "https://www.prydwen.gg/static/9db5b99a8d37337b6d81d45d3151c7bb/a5b19/bronya_full.webp"
+  },
+  {
+    "id": "seele",
+    "name": "Seele",
+    "element": "Quantum",
+    "path": "Hunt",
+    "rarity": 5,
+    "description": "A single-target Quantum DPS with a resurgence mechanic.",
+    "imageUrl": "https://www.prydwen.gg/static/9fa18a4e96dc4ec16e3def3b62df046b/a5b19/seele_full.webp"
+  },
+  {
+    "id": "gepard",
+    "name": "Gepard",
+    "element": "Ice",
+    "path": "Preservation",
+    "rarity": 5,
+    "description": "A shielder who protects the team with Ice barriers.",
+    "imageUrl": "https://www.prydwen.gg/static/9b0b7f5d3a94c35acdc9db4e2b21c23b/a5b19/gepard_full.webp"
+  },
+  {
+    "id": "natasha",
+    "name": "Natasha",
+    "element": "Physical",
+    "path": "Abundance",
+    "rarity": 4,
+    "description": "A healer who restores HP over time.",
+    "imageUrl": "https://www.prydwen.gg/static/b23c44d1c84b7f9e1c3e5f6a7d8e9f0a/a5b19/natasha_full.webp"
+  },
+  {
+    "id": "pela",
+    "name": "Pela",
+    "element": "Ice",
+    "path": "Nihility",
+    "rarity": 4,
+    "description": "A debuffer who strips enemy buffs and reduces DEF.",
+    "imageUrl": "https://www.prydwen.gg/static/c34d55e2d95c8g0f2d4f6g7b8e9f0b1b/a5b19/pela_full.webp"
+  },
+  {
+    "id": "clara",
+    "name": "Clara",
+    "element": "Physical",
+    "path": "Destruction",
+    "rarity": 5,
+    "description": "A counter-attack DPS who retaliates when hit.",
+    "imageUrl": "https://www.prydwen.gg/static/d45e66f3ea6d9h1g3e5g7h8c9f0g1c2c/a5b19/clara_full.webp"
+  },
+  {
+    "id": "tingyun",
+    "name": "Tingyun",
+    "element": "Lightning",
+    "path": "Harmony",
+    "rarity": 4,
+    "description": "A support who charges allies' energy and boosts damage.",
+    "imageUrl": "https://www.prydwen.gg/static/e56f77g4fb7e0i2h4f6h8i9d0g1h2d3d/a5b19/tingyun_full.webp"
+  },
+  {
+    "id": "welt",
+    "name": "Welt",
+    "element": "Imaginary",
+    "path": "Nihility",
+    "rarity": 5,
+    "description": "A crowd controller who slows and imprisons enemies.",
+    "imageUrl": "https://www.prydwen.gg/static/f67g88h5gc8f1j3i5g7i9j0e1h2i3e4e/a5b19/welt_full.webp"
+  },
+  {
+    "id": "march7th",
+    "name": "March 7th",
+    "element": "Ice",
+    "path": "Preservation",
+    "rarity": 4,
+    "description": "A shielder and counter-attacker with Ice damage.",
+    "imageUrl": "https://www.prydwen.gg/static/g78h99i6hd9g2k4j6h8j0k1f2i3j4f5f/a5b19/march7th_full.webp"
+  },
+  {
+    "id": "hook",
+    "name": "Hook",
+    "element": "Fire",
+    "path": "Destruction",
+    "rarity": 4,
+    "description": "A fiery Destruction character who applies Burns.",
+    "imageUrl": "https://www.prydwen.gg/static/h89i00j7ie0h3l5k7i9k1l2g3j4k5g6g/a5b19/hook_full.webp"
+  },
+  {
+    "id": "luocha",
+    "name": "Luocha",
+    "element": "Imaginary",
+    "path": "Abundance",
+    "rarity": 5,
+    "description": "A healer who automatically restores HP when allies are low.",
+    "imageUrl": "https://www.prydwen.gg/static/i90j11k8jf1i4m6l8j0l2m3h4k5l6h7h/a5b19/luocha_full.webp"
+  }
+]

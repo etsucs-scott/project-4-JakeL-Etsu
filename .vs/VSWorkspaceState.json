@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\FinalProject.Core",
+    "\\src\\FinalProject.Core\\Data",
+    "\\src\\FinalProject.Core\\Models",
+    "\\src\\FinalProject.Core\\Services",
+    "\\src\\FinalProject.UI",
+    "\\src\\FinalProject.UI\\Components"
+  ],
+  "SelectedNode": "\\src\\FinalProject.Core\\Services\\CharacterRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
